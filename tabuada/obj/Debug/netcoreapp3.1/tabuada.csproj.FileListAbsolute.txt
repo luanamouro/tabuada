@@ -1,0 +1,14 @@
+C:\imersao_logica\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.exe
+C:\imersao_logica\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.deps.json
+C:\imersao_logica\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.json
+C:\imersao_logica\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.dev.json
+C:\imersao_logica\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.dll
+C:\imersao_logica\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.pdb
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.csproj.AssemblyReference.cache
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfoInputs.cache
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfo.cs
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.csproj.CoreCompileInputs.cache
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.dll
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.pdb
+C:\imersao_logica\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.genruntimeconfig.cache
